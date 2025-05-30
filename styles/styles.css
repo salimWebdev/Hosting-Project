@@ -59,6 +59,9 @@ ul{
     height: 400px;
     position: relative;
 }
+.show h2{
+    font-size: 40px;
+}
 .show-container{
     height: 100%;
     padding-left:20px ;
